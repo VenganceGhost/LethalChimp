@@ -13,9 +13,3 @@
 # SHOP
 # FOOTBALL/SOCCER
 # PLANETS
-
-LINKS
-
-[Link text] https://discord.gg/Bcw8M8zm6b
-
-https://scontent-vie1-1.oculuscdn.com/v/t64.5771-25/473391881_1223513125856008_5811068490978886386_n.png?_nc_cat=110&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=qurYbt1kUe0Q7kNvwGsFOOk&_nc_oc=AdkiTZ_7lJzMRkCLpYd1cLcRXkUp5Mbk2pX-j7fuRTaBr1MfxR2OF9G6ClV7ZDATRdgh88pI4ySOceoIAGiyV9O7&_nc_zt=3&_nc_ht=scontent-vie1-1.oculuscdn.com&oh=00_AfEbtalF1yE3CPcumrgTGRax0Eq6HIdx4iIh76gTGuCG4w&oe=680B0FE0
