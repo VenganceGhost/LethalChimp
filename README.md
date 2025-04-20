@@ -1,16 +1,19 @@
-## Hi there 👋
+# WELCOME TO THE LETHAL CHIMP PAGE 
 
-<!--
-**VenganceGhost/VenganceGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# THIS IS A FAN GAME, THAT IS VERY SCARY BUT IT HAS ALOT OF GAMEMODES
 
-Here are some ideas to get you started:
+# LIST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# BLADEBALL
+# CHILL
+# BATTLE
+# TAG
+# LAB (WHICH IS HORROR)
+# SWIMMING POOL 
+# SHOP
+# FOOTBALL/SOCCER
+# PLANETS
+
+LINKS
+
+https://discord.gg/Bcw8M8zm6b
